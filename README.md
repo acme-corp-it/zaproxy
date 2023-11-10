@@ -10,6 +10,8 @@
 [![Open Source Helpers](https://www.codetriage.com/zaproxy/zaproxy/badges/users.svg)](https://www.codetriage.com/zaproxy/zaproxy)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zaproxy.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/zaproxy)
 
+For Acme Corp IT
+
 ![Integration Tests](https://github.com/zaproxy/zaproxy/actions/workflows/run-integration-tests.yml/badge.svg)
 ![Docker Live Release](https://github.com/zaproxy/zaproxy/actions/workflows/release-live-docker.yml/badge.svg)
 
